@@ -1,0 +1,33 @@
+variables :
+
+DRONES tous les drones
+MY_DRONES juste les miens
+
+CREATURES = toutes les créatures
+
+aggressiv_creatures_ids
+passiv_creatures_ids
+
+saved = tous les créatures prises en compte au debut du tour
+found_creatures = créatures enregistées et scannées a sauvegarder
+drone.creature_scanned = créatures scnnées pas enregistées
+
+visible_creatures = all visible creatures
+visible_fishies = ids
+visible_monsters = ids
+present_creatures = créatures encore sur la map
+
+
+voir pour faire des predictions de position
+
+
+540 en aggresif
+270 en passif
+
+pas plus haut que 2500
+
+
+
+revoir les dodge
+
+prendre en compte les couleurs et les classes des fishies pour maximiser les points
